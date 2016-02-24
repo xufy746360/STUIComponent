@@ -14,6 +14,8 @@ FOUNDATION_EXPORT double STUIComponentVersionNumber;
 //! Project version string for STUIComponent.
 FOUNDATION_EXPORT const unsigned char STUIComponentVersionString[];
 
+
+
 // In this header, you should import all the public headers of your framework using statements like #import <STUIComponent/PublicHeader.h>
 
 
